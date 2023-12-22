@@ -1,2 +1,2 @@
 # Tetris-Cplusplus
-A simple Tetris clone made in C++ and the command line 
+A simple clasic Tetris clone made in C++ and the command line 
